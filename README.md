@@ -1,1 +1,1 @@
-# Soil-Analysis-Tracking
+Creation of a tracking table for the quality of received soils at landfill sites according to parameters defined by prefectural orders. A visual element allows instant recognition of any parameter exceeding its authorization threshold.
